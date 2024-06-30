@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "5604cbd7c51559b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e00bb35749bbc71a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a98f3c0ae07e4c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Templates/template_metainfo_yaml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e614504349566264",
+    "type": "split",
+    "children": [
+      {
+        "id": "9088b232bcf5ffeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b488013338ce42e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcff7d6d3fc00ddb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c09f5527dfab659b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7efce30acea3b7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7241564569a56a54",
+    "type": "split",
+    "children": [
+      {
+        "id": "227756603bbdc293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ee09df4eecca1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Templates/template_metainfo_yaml.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "802b5d898ab88e2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Templates/template_metainfo_yaml.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5cc639d60fcd5e83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5bbb57f2e39fe2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Templates/template_metainfo_yaml.md"
+              }
+            }
+          },
+          {
+            "id": "3ca4f37ea09b2c20",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a98f3c0ae07e4c51",
+  "lastOpenFiles": [
+    "03 Tips/JavaScript/eval.md",
+    "02 Notes/Docker/Net Namespace 实践.md",
+    "02 Notes/Docker/Linux Namespace 初识.md",
+    "03 Tips/JavaScript/IIFE(Immediately Invoked Functions Expressions).md",
+    "01 Templates/template_metainfo_yaml.md",
+    "未命名.md",
+    "未命名.canvas",
+    "03 Tips/JavaScript",
+    "03 Tips/CSS/伪类选择器.md",
+    "03 Tips/CSS/CSS 选择器.md",
+    "03 Tips/CSS",
+    "02 Notes/CSS.md",
+    "image-20220111132707215.png",
+    "03 Tips",
+    "2023-03-19.md",
+    "02 Notes/Docker",
+    "02 Notes",
+    "01 Templates",
+    "00 Drafts",
+    "attachment",
+    "00 Inbox"
+  ]
+}
