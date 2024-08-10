@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e00bb35749bbc71a",
+        "id": "f50db49a853c2012",
         "type": "tabs",
         "children": [
           {
-            "id": "a98f3c0ae07e4c51",
+            "id": "5d2aad59a1a3c4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Templates/template_metainfo_yaml.md",
+                "file": "03 Cards/math/geometry/正弦定理.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0969d2945625c570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Cards/JavaScript/IIFE(Immediately Invoked Functions Expressions).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "7241564569a56a54",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Templates/template_metainfo_yaml.md",
+                "file": "03 Cards/JavaScript/IIFE(Immediately Invoked Functions Expressions).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Templates/template_metainfo_yaml.md",
+                "file": "03 Cards/JavaScript/IIFE(Immediately Invoked Functions Expressions).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Templates/template_metainfo_yaml.md"
+                "file": "03 Cards/JavaScript/IIFE(Immediately Invoked Functions Expressions).md"
               }
             }
           },
@@ -162,28 +175,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a98f3c0ae07e4c51",
+  "active": "1b488013338ce42e",
   "lastOpenFiles": [
-    "03 Tips/JavaScript/eval.md",
+    "03 Cards/JavaScript/eval.md",
+    "03 Cards/blender/blender 基础操作.md",
+    "03 Cards/algorithm/sort/快速排序.md",
     "02 Notes/Docker/Net Namespace 实践.md",
     "02 Notes/Docker/Linux Namespace 初识.md",
-    "03 Tips/JavaScript/IIFE(Immediately Invoked Functions Expressions).md",
     "01 Templates/template_metainfo_yaml.md",
-    "未命名.md",
+    "03 Cards/math/single variable calculus/证明：可导一定连续.md",
+    "03 Cards/math/single variable calculus/证明：和角公式.md",
+    "03 Cards/math/geometry/正弦定理.md",
+    "03 Cards/JavaScript/IIFE(Immediately Invoked Functions Expressions).md",
+    "03 Cards/math/single variable calculus/夹逼准则.md",
+    "03 Cards/math/geometry",
+    "03 Cards/math/single variable calculus",
+    "03 Cards/math",
+    "03 Cards/algorithm/sort",
+    "03 Cards/algorithm",
+    "03 Cards/blender",
     "未命名.canvas",
-    "03 Tips/JavaScript",
+    "03 Cards/JavaScript",
     "03 Tips/CSS/伪类选择器.md",
     "03 Tips/CSS/CSS 选择器.md",
-    "03 Tips/CSS",
+    "03 Cards/CSS",
     "02 Notes/CSS.md",
     "image-20220111132707215.png",
-    "03 Tips",
+    "03 Cards",
     "2023-03-19.md",
-    "02 Notes/Docker",
-    "02 Notes",
-    "01 Templates",
-    "00 Drafts",
-    "attachment",
-    "00 Inbox"
+    "02 Notes/Docker"
   ]
 }
