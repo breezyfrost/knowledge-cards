@@ -62,7 +62,7 @@ n_z & 0 & -n_x \\
 -n_y & n_x & 0 
 \end{pmatrix}
 $$
-[[03-1 罗德里格旋转公式推导]]
+[[04-1 罗德里格旋转公式推导]]
 ## View transformation
 ### camera
 properties:

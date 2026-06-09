@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eec6fc6822b21047",
+        "id": "0df7187ba6370b36",
         "type": "tabs",
         "children": [
           {
-            "id": "b85c39bc58790c9d",
+            "id": "e9a61609923e0685",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Course/GAMES101-现代图形学入门/03 Transformation Cont.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 Transformation Cont"
+              "title": "新标签页"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -70,8 +66,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -88,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 383.5
   },
   "right": {
     "id": "7241564569a56a54",
@@ -171,62 +167,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "b85c39bc58790c9d",
+  "active": "e9a61609923e0685",
   "lastOpenFiles": [
-    "05 Course/GAMES101-现代图形学入门/03-2 证明：旋转矩阵是正交矩阵.md",
-    "Pasted image 20250313183830.png",
-    "05 Course/GAMES101-现代图形学入门/03-1 罗德里格旋转公式推导.md",
-    "05 Course/GAMES101-现代图形学入门/03 Transformation Cont.md",
-    "Pasted image 20250313182548.png",
-    "Pasted image 20250313155840.png",
-    "Pasted image 20250313155847.png",
-    "Pasted image 20250313160000.png",
-    "Pasted image 20250313154751.png",
-    "03 Cards/math/single variable calculus/证明：可导一定连续.md",
-    "03 Cards/math/single variable calculus/证明：和角公式.md",
-    "03 Cards/math/linear algebra/知识点：向量空间.md",
-    "Pasted image 20250313095739.png",
-    "Pasted image 20250313095703.png",
-    "Pasted image 20250313094502.png",
-    "05 Course/GAMES101-现代图形学入门/02 Transformation.md",
-    "05 Course/GAMES101-现代图形学入门/01 Linear Algebra.md",
-    "05 Course/GAMES101-现代图形学入门/00 outline.canvas",
-    "Pasted image 20250312164755.png",
-    "Untitled.canvas",
+    "05 Course/GAMES-GITHUB-AI-ENGINEERING-FROM-SCRATCH/第一阶段 数学基础/04-面向机器学习的微积分.md",
+    "03 Cards/math/linear algebra/未命名.md",
+    "05 Course/GAMES-GITHUB-AI-ENGINEERING-FROM-SCRATCH/第一阶段 数学基础/03-矩阵变换.md",
+    "05 Course/GAMES-GITHUB-AI-ENGINEERING-FROM-SCRATCH/第一阶段 数学基础/02-向量、矩阵与运算.md",
+    "03 Cards/math/linear algebra/知识点：行列式（Determinant）.md",
+    "03 Cards/math/知识点 傅里叶级数与变换.md",
+    "05 Course/GAMES-GITHUB-AI-ENGINEERING-FROM-SCRATCH/第一阶段 数学基础/01-线性代数直觉.md",
+    "03 Cards/math/linear algebra/知识点：用高斯消元法和 QR 分解求解线性方程组.md",
+    "03 Cards/math/linear algebra/证明：正交矩阵的转置等于它的逆矩阵.md",
+    "03 Cards/math/linear algebra/证明：向量点乘代数意义.md",
     "03 Cards/math/linear algebra/证明：向量点乘分配律.md",
-    "Ink/Drawing/2025.3.11 - 21.06pm.drawing",
+    "03 Cards/math/linear algebra/知识点：向量空间.md",
+    "03 Cards/math/geometry/正弦定理.md",
+    "05 Course/GAMES-GITHUB-AI-ENGINEERING-FROM-SCRATCH/第一阶段 数学基础",
+    "05 Course/GAMES-GITHUB-AI-ENGINEERING-FROM-SCRATCH",
+    "05 Course/MUSIC01-乐理/2-“唱名”与记住“唱名”的方法.md",
+    "05 Course/MUSIC01-乐理/3-do re mi 的来历与简谱的构造.md",
+    "05 Course/MUSIC01-乐理/4-初探调号、拍号、情绪与速度.md",
+    "Pasted image 20251013104524.png",
+    "Ink/Drawing/2025.3.25 - 11.03am.drawing",
+    "05 Course/GAMES101-现代图形学入门/02 Linear Algebra.md",
+    "05 Course/GAMES101-现代图形学入门/01 outline.canvas",
+    "05 Course/GAMES101-现代图形学入门/06 Rasterization 2(Antialiasing and Z-Buffering).md",
+    "05 Course/GAMES101-现代图形学入门/05 Rasterization 1 (Triangles).md",
+    "05 Course/MUSIC01-乐理",
     "Ink/Drawing",
     "Ink",
-    "03 Cards/math/linear algebra/证明：向量点乘代数意义.md",
-    "03 Cards/math/geometry/正弦定理.md",
-    "03 Cards/math/linear algebra",
+    "Untitled.canvas",
     "03 Cards/math/Untitled.md",
-    "02 Notes/Docker/Net Namespace 实践.md",
-    "02 Notes/Docker/Linux Namespace 初识.md",
+    "03 Cards/math/single variable calculus/证明 和角公式.md",
+    "Pasted image 20250321105758.png",
+    "03 Cards/math/single variable calculus/知识点 三角函数基础.md",
+    "Pasted image 20250321093501.png",
+    "03 Cards/math/single variable calculus/证明 $$a$$.md",
+    "03 Cards/math/single variable calculus/知识点 和差化积与积化和差.md",
+    "05 Course/GAMES101-现代图形学入门/03 Transformation.md",
+    "05 Course/GAMES101-现代图形学入门/04-2 证明：旋转矩阵是正交矩阵.md",
+    "Pasted image 20250320180814.png",
+    "Pasted image 20250320180751.png",
+    "Pasted image 20250320180638.png",
+    "Pasted image 20250320180452.png",
+    "Pasted image 20250318185541.png",
+    "Pasted image 20250318185446.png",
+    "Pasted image 20250318170155.png",
+    "Ink/Drawing/2025.3.11 - 21.06pm.drawing",
+    "03 Cards/math/linear algebra",
     "05 Course/GAMES101-现代图形学入门",
     "05 Course",
-    "03 Cards/database/MySQL/表空间结构.md",
-    "03 Cards/algorithm/sort/快速排序.md",
-    "01 Templates/template_metainfo_yaml.md",
-    "04 Resources/vim/vim 基础教程/（5）命令模式.pdf",
-    "04 Resources/vim/vim 基础教程/（4）寄存器与宏.pdf",
-    "03 Cards/database/MySQL",
-    "03 Cards/database",
-    "03 Cards/database/MySQL/MySQL表空间结构.md",
-    "03 Cards/JavaScript/eval.md",
-    "03 Cards/JavaScript/IIFE(Immediately Invoked Functions Expressions).md",
-    "03 Cards/blender/blender 基础操作.md",
-    "03 Cards/math/single variable calculus/夹逼准则.md",
-    "未命名.canvas",
-    "03 Tips/CSS/伪类选择器.md",
-    "03 Tips/CSS/CSS 选择器.md",
-    "02 Notes/CSS.md"
+    "未命名.canvas"
   ]
 }

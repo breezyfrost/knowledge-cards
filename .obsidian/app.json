@@ -1,8 +1,9 @@
 {
-  "vimMode": true,
+  "vimMode": false,
   "newFileLocation": "root",
   "newFileFolderPath": "00 Inbox",
   "attachmentFolderPath": "/",
   "showFrontmatter": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
